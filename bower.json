@@ -1,0 +1,6 @@
+{
+  "name": "twitterdigitsmc",
+  "dependencies": {
+    "bootstrap": "~> 3.0"
+  }
+}
